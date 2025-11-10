@@ -97,6 +97,32 @@ p {
 
   /* INSERT BUTTON STYLES HERE */
 
+.btn {
+ padding: 10px 20px;
+ border-radius:8px;
+ border:none;
+ font-size:16px;
+ cursor:pointer;
+ transition:0.2s;
+}
+
+.btn-1 {
+  background-color:#c05326;
+  color:white;
+}
+
+.btn-1:hover {
+  background-color:brown;
+}
+
+.btn-2{
+  background-color:white;
+  color:#c05326;
+}
+
+.btn-2:hover{
+  background-color:antiquewhite;
+}
 
 /* Content */
 
