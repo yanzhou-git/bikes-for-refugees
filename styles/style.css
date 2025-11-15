@@ -61,7 +61,7 @@ p {
   margin-bottom: 0;
 }
 
-.header,
+
 .content,
 .footer {
   padding: 1rem 1.5rem;
@@ -92,6 +92,10 @@ nav {
   display: flex;
   justify-content: center;
   overflow: hidden;
+}
+
+nav a:hover {
+   color:var(--orange-dark);
 }
 
 .navigation__list {
